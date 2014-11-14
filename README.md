@@ -1,0 +1,4 @@
+MasterMind
+==========
+
+Simple MasterMind game
